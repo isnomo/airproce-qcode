@@ -2,9 +2,11 @@ body{
     margin: 0;
 }
 .logo{
-    padding: 10px 15px; 
+    z-index: 5;
+    padding: 10px 15px;
     margin-bottom: 30px;
     box-shadow: 0 5px 40px rgba(200,200,200,.2);
+    position: relative;
 }
 .logo img{
     width: 40%;
